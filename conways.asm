@@ -1,6 +1,6 @@
 #
 # FILE:         conways.asm
-# AUTHOR:       Arun Philip (axp4487)
+# AUTHOR:       Arun Philip
 #
 # DESCRIPTION:
 #        An implementation of the cellular automaton algorithm by
@@ -10,11 +10,11 @@
 #        procedures.
 #
 # ARGUMENTS:
-#        None
+#        (nothing)
 #
 # INPUT:
 #        Board size, # of generations, # of initial living cells,
-#        locations of initial live=ing cells.
+#        locations of initial living cells.
 #
 # OUTPUT:
 #        Iterations of the board over the number of generations
